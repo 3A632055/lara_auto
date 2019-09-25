@@ -1,0 +1,11 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "lara_auto",
+    "authors": [
+        {
+            "name": "Yao",
+            "email": "s3a632055@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
